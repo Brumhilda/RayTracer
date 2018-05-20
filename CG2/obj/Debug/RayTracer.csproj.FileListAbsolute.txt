@@ -1,0 +1,17 @@
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\CG2.exe.config
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\CG2.exe
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\CG2.pdb
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\Tao.DevIl.dll
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\Tao.OpenGl.dll
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\Tao.DevIl.xml
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\Tao.OpenGl.xml
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\obj\Debug\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\obj\Debug\CG2.myForm.resources
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\obj\Debug\CG2.Properties.Resources.resources
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\obj\Debug\RayTracer.csproj.GenerateResource.Cache
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\obj\Debug\CG2.exe
+C:\Users\Lisa\Documents\Visual Studio 2015\Projects\RayTracer\CG2\obj\Debug\CG2.pdb
