@@ -1,0 +1,9 @@
+-Position-
+X:0,2
+Y:0,3
+Z:0
+angleX:257
+angleY:943
+angleZ:448
+Size:-0,3
+:-0,2
