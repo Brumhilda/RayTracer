@@ -1,0 +1,30 @@
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\bin\Debug\models\male02\01_-_Default1noCulling.JPG
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\bin\Debug\models\male02\male-02-1noCulling.JPG
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\bin\Debug\models\male02\orig_02_-_Defaul1noCulling.JPG
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\bin\Debug\models\dinosaur.2k.obj
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\bin\Debug\models\male02\male02.mtl
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\bin\Debug\models\male02\male02.obj
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\bin\Debug\RayTracer.exe
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\bin\Debug\RayTracer.pdb
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.Form1.resources
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.Properties.Resources.resources
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.csproj.GenerateResource.Cache
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.exe
+C:\Users\Lisa\Downloads\RayTracer-master (2)\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.pdb
+C:\Users\Lisa\Downloads\RayTracer-master (2) — копия\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.exe
+C:\Users\Lisa\Downloads\RayTracer-master (2) — копия\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.pdb
+C:\Users\Lisa\Downloads\RayTracer-master (2) — копия\RayTracer-master\RayTracer\bin\Debug\RayTracer.exe
+C:\Users\Lisa\Downloads\RayTracer-master (2) — копия\RayTracer-master\RayTracer\bin\Debug\RayTracer.pdb
+C:\Users\Lisa\Downloads\RayTracer-master (2) — копия\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Downloads\RayTracer-master (2) — копия\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.Form1.resources
+C:\Users\Lisa\Downloads\RayTracer-master (2) — копия\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.Properties.Resources.resources
+C:\Users\Lisa\Downloads\RayTracer-master (2) — копия\RayTracer-master\RayTracer\obj\x86\Debug\RayTracer.csproj.GenerateResource.Cache
+C:\Users\Lisa\Documents\RayTracсing\RayTracer\obj\x86\Debug\RayTracer.exe
+C:\Users\Lisa\Documents\RayTracсing\RayTracer\obj\x86\Debug\RayTracer.pdb
+C:\Users\Lisa\Documents\RayTracсing\RayTracer\obj\x86\Debug\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Documents\RayTracсing\RayTracer\obj\x86\Debug\RayTracer.Form1.resources
+C:\Users\Lisa\Documents\RayTracсing\RayTracer\obj\x86\Debug\RayTracer.Properties.Resources.resources
+C:\Users\Lisa\Documents\RayTracсing\RayTracer\obj\x86\Debug\RayTracer.csproj.GenerateResource.Cache
+C:\Users\Lisa\Documents\RayTracсing\RayTracer\bin\Debug\RayTracer.exe
+C:\Users\Lisa\Documents\RayTracсing\RayTracer\bin\Debug\RayTracer.pdb
